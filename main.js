@@ -100,7 +100,7 @@ GoAway() ;
 // function expression
 // alert - Открывает на сайте окно с текстом
 const GoAway2 = function() {
-    alert("Сайт в ранней альфе") ;
+    alert("Сайт в альфа  тесте") ;
 }
 GoAway2() ;
 // Так тоже можно
